@@ -1,0 +1,4 @@
+(executable
+ (public_name caml_corner)
+ (name main)
+ (libraries caml_corner graphics camlimages.png camlimages.graphics unix))
